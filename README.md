@@ -46,7 +46,7 @@ II. **Bootstrapping** (30 minutes total)
 - Illustration
 - Coding
 
-III. **Modeling** (75 minutes total)
+III. **Modeling** (40 minutes total)
 - Bagged Decision Trees
 - Coding
 
