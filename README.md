@@ -9,7 +9,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Notebook | [Link](./Codealong.ipynb)|
+| Lesson | Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** `Heart.csv` from [ISLR](https://www-bcf.usc.edu/~gareth/ISL/)
 
