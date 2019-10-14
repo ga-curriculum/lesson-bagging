@@ -37,19 +37,19 @@
 
 ## Lesson Outline
 
-> **Total Time: 90 mins**
+> **Total Time: 100 mins**
 
-I. **Ensemble models** (25 minutes total)
+I. **Data and Model Prep** (25 minutes total)
+- Fit decision tree
+
+II. **Ensemble models** (25 minutes total)
 - Crowdsourcing: Estimate the weight of a cow
 - Benefits of ensemble models
 
-II. **Bootstrapping** (30 minutes total)
+III. **Bootstrapping** (50 minutes total)
 - Illustration
 - Coding
-
-III. **Modeling** (40 minutes total)
-- Bagged Decision Trees
-- Coding
+- Modeling with Bagged Decision Trees
 
 ---
 
