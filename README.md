@@ -18,9 +18,10 @@
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-1. **Define** ensemble model and describe three rationales for using ensemble models.
-2. **Execute** bootstrapping.
-3. **Identify** advantages and disadvantages of using CART models.
+1. **Define** ensemble model.
+2. **Name** three advantages of using ensemble models.
+3. **Define** and **execute** bootstrapping.
+4. **Fit** and **evaluate** bagged decision trees.
 
 ---
 
