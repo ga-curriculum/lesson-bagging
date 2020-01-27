@@ -1,6 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 6.02 - Bootstrapping and Bagging
-
-> Week 6, Lesson 2
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Bootstrapping and Bagging
 
 ---
 
@@ -11,7 +9,7 @@
 | --- | --- | --- |
 | Lesson | Notebook | [Link](./starter-code.ipynb)|
 
-> **Dataset description:** `Heart.csv` from [ISLR](https://www-bcf.usc.edu/~gareth/ISL/)
+> **Dataset description:** `Heart.csv` from [ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ---
 
@@ -37,19 +35,20 @@
 
 ## Lesson Outline
 
-> **Total Time: 100 mins**
+> **Total Time: 105 mins**
 
-I. **Data and Model Prep** (25 minutes total)
+I. **Data and Model Prep** (20 minutes total)
 - Fit decision tree
 
-II. **Ensemble models** (25 minutes total)
-- Crowdsourcing: Estimate the weight of a cow
-- Benefits of ensemble models
-
-III. **Bootstrapping** (50 minutes total)
+II. **Bootstrapping** (30 minutes total)
 - Illustration
 - Coding
+
+III. **Ensemble models** (55 minutes total)
+- Benefits of ensemble models
+- Crowdsourcing: Estimate the weight of a cow
 - Modeling with Bagged Decision Trees
+
 
 ---
 
@@ -59,6 +58,7 @@ III. **Bootstrapping** (50 minutes total)
 - [Penelope](http://www.npr.org/sections/money/2015/08/07/429720443/17-205-people-guessed-the-weight-of-a-cow-heres-how-they-did)
 - [Wisdom of the crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)
 - [The Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize)
+- [Write-Up of Bootstrapping](https://www.inferentialthinking.com/chapters/13/2/Bootstrap.html)
 - [Avoiding the biases of the crowd](http://chicagoinno.streetwise.co/2017/02/24/how-machines-can-save-us-from-the-mistakes-of-the-crowd/)
 - [An Introduction to Statistical Learning with Applications in R - see Tree-Based Methods in chapter 8](http://www-bcf.usc.edu/~gareth/ISL/)
 - [Decision Tree User Guide](http://scikit-learn.org/stable/modules/tree.html)
