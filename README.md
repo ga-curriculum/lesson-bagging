@@ -16,10 +16,10 @@
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-1. **Define** ensemble model.
-2. **Name** three advantages of using ensemble models.
-3. **Define** and **execute** bootstrapping.
-4. **Fit** and **evaluate** bagged decision trees.
+1. Define ensemble model.
+2. Name three advantages of using ensemble models.
+3. Define and execute bootstrapping.
+4. Fit and evaluate bagged decision trees.
 
 ---
 
