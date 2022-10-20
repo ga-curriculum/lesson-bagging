@@ -7,7 +7,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Notebook | [Link](./starter-code.ipynb)|
+| Lesson | Notebook | [Link](./bagging-starter-code.ipynb)|
+| Lesson | Slide deck | [Link](./bagging.pdf)|
 
 > **Dataset description:** `Heart.csv` from [ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
@@ -16,10 +17,9 @@
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-1. Define ensemble model.
-2. Name three advantages of using ensemble models.
-3. Define and execute bootstrapping.
-4. Fit and evaluate bagged decision trees.
+1. Define and execute bootstrapping.
+1. Define ensemble models
+1. Fit and evaluate bagged decision trees.
 
 ---
 
@@ -30,25 +30,6 @@
 1. Construct individual decision trees.
 2. Describe how CART models are built.
 3. Differentiate between classification and regression problems.
-
----
-
-## Lesson Outline
-
-> **Total Time: 105 mins**
-
-I. **Data and Model Prep** (20 minutes total)
-- Fit decision tree
-
-II. **Bootstrapping** (30 minutes total)
-- Illustration
-- Coding
-
-III. **Ensemble models** (55 minutes total)
-- Benefits of ensemble models
-- Crowdsourcing: Estimate the weight of a cow
-- Modeling with Bagged Decision Trees
-
 
 ---
 
