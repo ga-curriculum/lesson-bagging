@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Notebook | [Link](./bagging-starter-code.ipynb)|
+| Lesson | Notebook | [Link](./starter-code.ipynb)|
 | Lesson | Slide deck | [Link](./bagging.pdf)|
 
 > **Dataset description:** `Heart.csv` from [ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
